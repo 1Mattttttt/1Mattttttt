@@ -37,7 +37,7 @@ a large part of my work stays private, but i occasionally publish tools, experim
 
 ### tools
 
-`visual studio` · `github` · `claude` · `discord` · `forums`
+`visual studio` · `github` · `Gemini` · `discord` · `forums`
 
 ### contact
 
